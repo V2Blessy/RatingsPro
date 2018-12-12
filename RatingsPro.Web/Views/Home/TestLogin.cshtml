@@ -1,0 +1,19 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+}
+
+<h2>Ratings Pro page to be displayed after login</h2>
+<h3>User Claims</h3>
+@{
+    var claimsIdentity = User.Identity as System.Security.Claims.ClaimsIdentity;
+    if (claimsIdentity != null)
+    {
+        <dl>
+            @foreach (var claim in claimsIdentity.Claims)
+            {
+                <dt>@claim.Type</dt>
+                <dd>@claim.Value</dd>
+            }
+        </dl>
+    }
+}
