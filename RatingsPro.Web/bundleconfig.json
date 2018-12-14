@@ -1,0 +1,62 @@
+[
+  {
+    "outputFileName": "Scripts/Js/jqgrid.min.js",
+    "inputFiles": [
+      "Scripts/Js/jqgrid.js"
+    ]
+  },
+  {
+    "outputFileName": "Scripts/i18n/grid.locale-en.min.js",
+    "inputFiles": [
+      "Scripts/i18n/grid.locale-en.js"
+    ]
+  },
+  {
+    "outputFileName": "Content/jquery.jqGrid/ui.jqgrid.min.css",
+    "inputFiles": [
+      "Content/jquery.jqGrid/ui.jqgrid.css"
+    ]
+  },
+  {
+    "outputFileName": "Scripts/jquery-1.10.2.min.js",
+    "inputFiles": [
+      "Scripts/jquery-1.10.2.js"
+    ]
+  },
+  {
+    "outputFileName": "Scripts/jquery-ui-1.10.0.min.js",
+    "inputFiles": [
+      "Scripts/jquery-ui-1.10.0.js"
+    ]
+  },
+  {
+    "outputFileName": "Scripts/jquery.validate.min.js",
+    "inputFiles": [
+      "Scripts/jquery.validate.js"
+    ]
+  },
+  {
+    "outputFileName": "Scripts/bootstrap.min.js",
+    "inputFiles": [
+      "Scripts/bootstrap.js"
+    ]
+  },
+  {
+    "outputFileName": "Scripts/respond.min.js",
+    "inputFiles": [
+      "Scripts/respond.js"
+    ]
+  },
+  {
+    "outputFileName": "Content/bootstrap.min.css",
+    "inputFiles": [
+      "Content/bootstrap.css"
+    ]
+  },
+  {
+    "outputFileName": "Content/Site.min.css",
+    "inputFiles": [
+      "Content/Site.css"
+    ]
+  }
+]

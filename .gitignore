@@ -234,3 +234,7 @@ node_modules/
 # Angular build directories
 RatingsPro.Web/Scripts/out-tsc
 RatingsPro.Web/Scripts/libs
+
+# jquery generated files
+RatingsPro.Web\Content\themes\base\minified
+RatingsPro.Web\Scripts\i18n\grid.locale-ar.js
